@@ -12,9 +12,9 @@ const themeInitScript = `
 `;
 
 export const metadata: Metadata = {
-  title: "Saroj Devkota — Full Stack Developer",
+  title: "Saroj Devkota - Full Stack Developer",
   description:
-    "Saroj Devkota — Full Stack Developer specializing in Python, Django, DRF, and automation workflows (n8n, MCP). Based in Kathmandu, Nepal.",
+    "Saroj Devkota - Full Stack Developer specializing in Python, Django, DRF, and automation workflows (n8n, MCP). Based in Kathmandu, Nepal.",
   keywords: [
     "Saroj Devkota",
     "Full Stack Developer",
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Saroj Devkota" }],
   openGraph: {
-    title: "Saroj Devkota — Full Stack Developer",
+    title: "Saroj Devkota - Full Stack Developer",
     description:
       "Python / Django developer building production APIs, SaaS platforms, and automation workflows.",
     type: "website",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary",
-    title: "Saroj Devkota — Full Stack Developer",
+    title: "Saroj Devkota - Full Stack Developer",
     description:
       "Python / Django developer building production APIs, SaaS platforms, and automation workflows.",
   },
